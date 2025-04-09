@@ -71,7 +71,7 @@ This portfolio website is built using React with TypeScript and styled using Tai
 
 ## 🌐 Live Demo
 
-🚀 [Click here to view the live website](#)  
+🚀 [[Click here to view the live website]](https://creative-marzipan-6913a2.netlify.app/)(#)  
 
 
 ---
